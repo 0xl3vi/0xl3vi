@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @0xl3vi
 - 👀 I’m interested in Auditing Smart Contracts
-- 🌱 I’m currently building gas optimized smart contracts
+- 🌱 I’m currently building side projects for my portfolio
 - 📫 How to reach me [x.com/0xl3vi](https://www.twitter.com)
